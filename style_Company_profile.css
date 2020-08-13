@@ -79,7 +79,7 @@ body{
     background-size: 55%;
     background-color: #fdfdfd;
     overflow: hidden;
-    padding: 100px 0;
+    padding: 500px 0;
 }
 
 .Mission{
@@ -101,14 +101,14 @@ body{
 .inner-container{
     width: 55%;
     float: right;
-    background-color: #E1F5FE;
+    background-color:#e1f5fe;
     padding: 150px;
 }
 
 .inner-container1{
     width: 55%;
     float: left;
-    background-color: #E1F5FE;
+    background-color:#e1f5fe;
     padding: 150px;
 }
 
@@ -159,7 +159,7 @@ body{
     transform: perspective(600px) rotateY(0deg);
   }
   .back{
-    background: #E1BEE7;
+    background: #e1bee7;
     transform: perspective(600px) rotateY(180deg);
   }
   .back-content{
