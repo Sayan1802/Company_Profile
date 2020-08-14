@@ -101,6 +101,19 @@ body{
     padding: 100px 0;
 }
 
+.inner-container0{
+  width: 50%;
+  float: right;
+  background-color:#e1f5fe;
+  padding: 150px;
+}
+
+.inner-container0 h1{
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: 900;
+}
+
 .inner-container{
     width: 55%;
     float: right;
